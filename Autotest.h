@@ -1,0 +1,12 @@
+#pragma once
+#include "IntN.h"
+#include "IntN_Hori.h"
+#include "IntN_Vert.h"
+#include "Factory.h"
+#include "Factory_Hori.h"
+#include "Factory_Vert.h"
+int Autotest1();
+int Autotest2();
+int Autotest3();
+int Autotest4();
+int Autotest();
